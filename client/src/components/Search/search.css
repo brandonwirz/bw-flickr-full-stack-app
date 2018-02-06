@@ -1,0 +1,73 @@
+ .search{
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align: center;
+    margin:0 auto;
+}
+.flickr-button{
+    background-color: #12223C;
+    color: white;
+    width: 120px;
+    height: 26px;
+    border: 1px solid #12223C;
+    cursor:pointer;
+}
+.input-search{
+    color: white;
+    width: 100px;
+    height: 26px;
+    width: 200px;
+    border: 1px solid #12223C;
+    padding-bottom: 2px;
+    color: black;
+}
+.form{
+    padding-bottom:30px;
+}
+#img-container{
+    padding-top:20px;
+    margin:0 auto;
+    width: 70%;
+    height: auto;
+    padding:0 100px 0 100px;
+}
+.imageThumbs{
+    margin-top:40px;
+    display: inline-block;
+    padding: 10px;
+    /* border:1px solid #12223C; */
+}
+.imageThumbs:hover{
+    /* border:1px solid #12223C; */
+}
+.imageBox {
+    width: 500px;
+    -webkit-animation: fade-in 1.5s; /* Safari 4+ */
+    -moz-animation:    fade-in 1.5s; /* Fx 2+ */
+    -o-animation:      fade-in 1.5s; /* Opera 12+ */
+    animation:         fade-in 1.5s;
+}
+.save-button{
+    margin-top: -20px;
+    text-align: center;
+    background-color: rgba(18, 34, 60, 1);
+    border: 1px solid #12223C;
+    color:white;
+    width: 150px;
+    height: 20px;
+    /* border-radius: 5px; */
+}
+.save-button:hover{
+    background-color: rgba(18, 34, 60, .2);
+    color:#12223C;
+    /* border: 1px solid #12223C; */
+}
+.save-button:visited{
+    color:rgba(18, 34, 60, .5);
+
+}
+.selector{
+    position: relative;
+    display: inline-block;
+
+}
